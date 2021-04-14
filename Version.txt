@@ -1,6 +1,6 @@
 RCAD柱配筋優化
 ---
-2.4
+2.5
 ===
 Release Notes
 2021/4/6	2.2
@@ -12,6 +12,8 @@ Release Notes
 3.地面層輸入應為"2F"(ETABS樓層)
 2021/4/12	2.4
 1.修正Report_draw
+2021/4/14	2.5
+1.新增地梁鋼筋量
 *
 RCREFINE
 ---
