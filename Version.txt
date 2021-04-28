@@ -1,6 +1,6 @@
 RCAD柱配筋優化
 ---
-2.7
+2.8
 ===
 Release Notes
 2021/4/6	2.2
@@ -18,6 +18,8 @@ Release Notes
 1.修正錯誤
 2021/4/20	2.7
 1.輸出錯誤
+2021/4/20	2.8
+1.取消束筋sqrt(2)間距限制
 *
 RCREFINE
 ---
@@ -42,3 +44,13 @@ SRC柱配筋
 Release Notes
 2021/4/6	2.0
 1.修改繫筋計算部分
+*
+NewSRCSelector
+---
+3.0
+===
+Release Notes
+2021/4/28	3.0
+1.初版完成
+2.PMMcurve待修正
+3.使用者輸入待改善
