@@ -1,0 +1,56 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>外部實體IP查詢程式、網路IP偵測工具 - My IP</title>
+<style type="text/css">
+.myip {
+	color: #036;
+	font-size: 30px;
+}
+</style>
+</head>
+
+<body>
+ 
+
+
+
+
+ 
+
+
+<table width="500" border="0" align="center">
+  <tr>
+    <td height="85" colspan="2" align="center">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">My IP - 外部實體IP查詢程式、網路IP偵測工具</td>
+  </tr>
+  <tr>
+    <td align="center" class="myip">&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="300" align="center" class="myip">您 的 IP 是</td>
+    <td width="190">
+122.99.20.59    </td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+	<td align="center" class="myip">Your IP is</td>
+    <td>122.99.20.59<BR>
+</td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">簡單、快速取得實體IP（外部IP） - <a href="myip.php">http://www.rus.net.tw/myip.php</a></td>
+  </tr>
+</table>
+</body>
+</html>
