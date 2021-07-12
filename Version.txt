@@ -40,7 +40,7 @@ Release Notes
 *
 RCREFINE
 ---
-2.17
+2.18
 ===
 Release Notes
 2021/4/6	2.1
@@ -78,6 +78,8 @@ Release Notes
 2021/7/08	2.17
 1.新增壓力筋不得少於0.5之拉力筋
 2.第二排鋼筋不受最大間距影響
+2021/7/08	2.18
+1.配筋有誤會輸出至Errorr加速執行
 *
 SRC柱配筋
 ---
@@ -91,7 +93,7 @@ Release Notes
 *
 NewSRCSelector
 ---
-3.4
+3.5
 ===
 Release Notes
 2021/4/28	3.0
@@ -107,4 +109,6 @@ Release Notes
 2021/5/19	3.4
 1.新增文字檔轉換
 2021/7/08	3.4
+1.文字檔轉換(無SECTION GROUP 也可)
+2021/7/12	3.5
 1.文字檔轉換(無SECTION GROUP 也可)
