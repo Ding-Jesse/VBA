@@ -46,7 +46,7 @@ Release Notes
 *
 RCREFINE
 ---
-2.20
+2.3
 ===
 Release Notes
 2021/4/6	2.1
@@ -91,6 +91,8 @@ Release Notes
 2021/7/13	2.20
 1.新增各樓層耐震設計的檢核
 2.修正最小鋼筋量
+2021/8/23	2.3
+1.新增樓層報表
 *
 SRC柱配筋
 ---
@@ -104,7 +106,7 @@ Release Notes
 *
 NewSRCSelector
 ---
-3.6
+3.8
 ===
 Release Notes
 2021/4/28	3.0
@@ -125,3 +127,8 @@ Release Notes
 1.文字檔轉換(無SECTION GROUP 也可)
 2021/7/15	3.6
 1.改為公式填寫鋼筋
+2021/8/3	3.8
+1	修正a=0時的錯誤
+2	修正rowused(改抓第一欄)
+3	新增數量計算功能
+
