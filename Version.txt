@@ -1,6 +1,6 @@
 RCAD柱配筋優化
 ---
-2.23
+2.24
 ===
 Release Notes
 2021/4/6	2.2
@@ -35,7 +35,7 @@ Release Notes
 *
 RCREFINE
 ---
-2.53
+2.56
 ===
 Release Notes
 2021/4/6	2.1
